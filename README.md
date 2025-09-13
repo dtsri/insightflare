@@ -15,8 +15,8 @@ This project dives into subscription costs, library sizes, and global trends to 
 - Jupyter/Colab Notebook  
 
 ## 📂 Files
-- `    ` → Notebook with full analysis & visuals  
-- `  ` → Dataset used  
+- `Netflix.ipynb` → Notebook with full analysis & visuals  
+- `Netfilx Subscription fee - 2021` → Dataset used  
 
 ## ✨ About
 Part of my **insightflare** repo — explorations through data.
